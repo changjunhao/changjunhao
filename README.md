@@ -6,7 +6,7 @@
 
 🇨🇳 China Beijing・🕹Web developer
 
-https://blog.ifable.cn
+https://m.ifable.cn
 
 <!--
 **changjunhao/changjunhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
