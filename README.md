@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changjunhao&card_width=445&layout=compact" align="right" />
+<img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=changjunhao&repo=colors-mp" align="left" />
+<img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=changjunhao&repo=conans-casebook-ios" align="left" />
+
+
+
